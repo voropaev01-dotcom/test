@@ -1,5 +1,5 @@
 # Hello, world!
-I like play hockey.
+I like play footbal.
+I like a cake.
 
-
-Russia is great again!!!
+USA is great again!!!
